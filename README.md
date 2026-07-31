@@ -4,8 +4,7 @@
 Zomato Restaurant Analysis Dashboard
 
 ## Tableau Public Dashboard Link
-https://public.tableau.com/app/profile/asadul.wasim/viz/RestaurantDashboardBATASK3/Dashboard1https://public.tableau.com/app/profile/asadul.wasim/viz/RestaurantDashboardBATASK3/Dashboard1
-
+https://public.tableau.com/app/profile/asadul.wasim/viz/RestaurantDashboardBATASK3/Dashboard1
 ## Business Insights
 
 1. Dining restaurants have the highest number of listings.
