@@ -12,16 +12,17 @@ https://public.tableau.com/app/profile/asadul.wasim/viz/RestaurantDashboardBATAS
 3. Buffet restaurants are the least common.
 4. Most restaurants provide online ordering.
 5. Only a small number of restaurants offer table booking.
-#🛒 Week 4 - Customer Segment Analysis Dashboard
-##Dataset
+6. 
+# 🛒 Week 4 - Customer Segment Analysis Dashboard
+## Dataset
 Supermarket Sales Dataset (Kaggle)
 
-##Tool Used
+## Tool Used
 Tableau Public
-##Dashboard Link
+## Dashboard Link
 https://public.tableau.com/app/profile/asadul.wasim/viz/CustomerSegmentAnalysisDashboard_17860733759330/Dashboard1
 
-##Business Questions & Answers
+## Business Questions & Answers
 Which customer segment generates the highest sale?
 Member customers generate the highest sales.
 
@@ -40,14 +41,14 @@ Naypyitaw
 Which customer segment should the business focus on?
 Member customers.
 
-##Business Insights
+## Business Insights
 Member customers generate higher sales.
 Cash is the most preferred payment method.
 Food and Beverages is the top-selling product line.
 Naypyitaw contributes the highest revenue.
 Customer purchasing patterns help identify profitable segments.
 
-##Business Recommendations
+## Business Recommendations
 Focus marketing on Member customers.
 Increase stock for the best-selling product line.
 Offer promotions using the most preferred payment method.
