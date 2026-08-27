@@ -52,21 +52,22 @@ Customer purchasing patterns help identify profitable segments.
 Focus marketing on Member customers.
 Increase stock for the best-selling product line.
 Offer promotions using the most preferred payment method.
-📊 Week 6 - Business Trend Analysis using Tableau
-Dataset
+
+##📊 Week 6 - Business Trend Analysis using Tableau
+#Dataset
 Supermarket Sales Dataset (Kaggle)
 
-Tool Used
+#Tool Used
 Tableau Public
-Objective
+#Objective
 Analyze business performance over time using an Area Chart and identify important sales trends that support business decision-making.
 
-Business Trend Analysis
+#Business Trend Analysis
 The Supermarket Sales dataset was imported into Tableau Public. The Date field was used as the time-based field and Sales as the numerical business measure.
 
 An Area Chart was created to analyze the monthly sales trend. Three additional visualizations were also created to understand sales performance across different business dimensions.
 
-Visualizations Created
+#Visualizations Created
 Monthly Sales Trend – Area Chart
 
 Shows how sales change from month to month.
@@ -88,5 +89,5 @@ Customer type analysis helps identify important customer segments.
 Conclusion
 The Area Chart clearly shows the monthly sales trend and helps identify changes in business performance over time. The additional visualizations provide a broader understanding of product, branch, and customer-level sales performance.
 
-Dashboard Link
+#Dashboard Link
 https://public.tableau.com/app/profile/asadul.wasim/viz/SupermarketTrend/Dashboard1#1
