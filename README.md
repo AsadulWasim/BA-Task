@@ -91,3 +91,42 @@ The Area Chart clearly shows the monthly sales trend and helps identify changes 
 
 #Dashboard Link
 https://public.tableau.com/app/profile/asadul.wasim/viz/SupermarketTrend/Dashboard1#1
+
+# Task 7 - Business Performance Analysis using Scatter Plot
+
+Dataset: Supermarket Sales Dataset (Kaggle)
+Tool: Tableau Public
+
+Objective:
+To analyze business performance using a Scatter Plot and identify important trends and relationships that support business decision-making.
+
+Visualizations Created:
+1. Quantity vs Sales - Scatter Plot
+2. Sales by Product Line - Bar Chart
+3. Sales by Customer Type - Bar Chart
+4. Sales by City - Map
+
+Business Questions & Answers:
+1. Does purchasing a higher quantity lead to higher sales?
+   → The Scatter Plot shows the relationship between Quantity and Sales.
+
+2. Which product lines generate higher sales?
+   → The analysis helps identify the product lines with higher sales contribution.
+
+3. Which customer type contributes more to sales?
+   → The dashboard compares sales performance between Member and Normal customers.
+
+4. Which city contributes the highest sales?
+   → The map helps identify the cities with higher sales contribution.
+
+Business Insights:
+- Higher quantity purchases generally contribute to higher sales.
+- Different product lines contribute differently to overall sales.
+- Customer type analysis helps understand purchasing patterns.
+- City-wise analysis helps identify important sales locations.
+
+Conclusion:
+The Scatter Plot and supporting visualizations provide a clear understanding of sales performance, customer behavior, and location-wise business performance. These insights can help businesses improve sales strategies and make better decisions.
+
+Dashboard Link:
+https://public.tableau.com/app/profile/asadul.wasim/viz/NewWorkbook_17884165370160/Dashboard1#1
