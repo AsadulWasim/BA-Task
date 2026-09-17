@@ -130,3 +130,47 @@ The Scatter Plot and supporting visualizations provide a clear understanding of 
 
 Dashboard Link:
 https://public.tableau.com/app/profile/asadul.wasim/viz/NewWorkbook_17884165370160/Dashboard1#1
+Tableau Sales Data Visualization
+Objective
+
+##TASK 9
+Create visualizations to analyze sales data and understand trends, branch-wise performance, and customer distribution using Tableau.##
+
+Dataset Fields Used
+Branch
+City
+Customer type
+Date
+Gender
+Invoice ID
+Payment
+Product line
+Time
+Visualizations Created
+1. Line Graph – Sales Over Time
+Columns: Date
+Rows: Sales / selected measure
+Marks: Line
+Shows how the selected measure changes over time.
+2. Bar Chart – Branch-wise Sales
+Columns: Branch
+Rows: Sales / selected measure
+Marks: Bar
+Compares the selected measure between different branches.
+3. Pie Chart – Customer Type Distribution
+Color: Customer type
+Angle: Sales / selected measure
+Marks: Pie
+Shows the contribution of different customer types.
+4. Area Chart – Sales Trend
+Columns: Date
+Rows: Sales / selected measure
+Marks: Area
+Shows the overall trend of the selected measure over time.
+Tools Used
+Tableau
+Dataset from Kaggle
+Conclusion
+
+The Tableau dashboard provides a visual analysis of sales data using different chart types. The visualizations help identify trends over time, compare branch performance, and understand customer-type distribution.
+Link : https://public.tableau.com/authoring/Task9_17896247251240/Dashboard1#1
