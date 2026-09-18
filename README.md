@@ -173,4 +173,4 @@ Dataset from Kaggle
 Conclusion
 
 The Tableau dashboard provides a visual analysis of sales data using different chart types. The visualizations help identify trends over time, compare branch performance, and understand customer-type distribution.
-Link : https://public.tableau.com/authoring/Task9_17896247251240/Dashboard1#1
+Link : https://public.tableau.com/app/profile/asadul.wasim/viz/Task9_17896247251240/Dashboard1
