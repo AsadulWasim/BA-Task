@@ -174,3 +174,52 @@ Conclusion
 
 The Tableau dashboard provides a visual analysis of sales data using different chart types. The visualizations help identify trends over time, compare branch performance, and understand customer-type distribution.
 Link : https://public.tableau.com/app/profile/asadul.wasim/viz/Task9_17896247251240/Dashboard1
+
+
+# Task 10 - Tableau Sales Data Visualization
+
+[svg](https://github.com/AsadulWasim/BA-Task#task-10---tableau-sales-data-visualization)
+
+Dataset: Supermarket Sales Dataset (Kaggle)  
+Tool: Tableau Public
+
+## Objective
+
+To create different visualizations using the Supermarket Sales Dataset and analyze sales performance, product-line distribution, payment methods, and relationships between numerical variables.
+
+## Visualizations Created:
+
+1. Sales by Product Line and Branch - Heat Map
+2. Sales by Product Line - Donut Chart
+3. Unit Price vs Quantity - Scatter Plot
+4. Sales by Payment Method - Bar Chart
+
+## Business Questions & Answers:
+
+1. How does sales performance vary across product lines and branches?
+→ The Heat Map shows the sales intensity for each product line across different branches.
+
+2. Which product lines contribute to overall sales?
+→ The Donut Chart shows the sales distribution among different product lines.
+
+3. What is the relationship between unit price and quantity?
+→ The Scatter Plot shows the relationship between Unit Price and Quantity.
+
+4. Which payment methods generate higher sales?
+→ The Bar Chart compares sales across different payment methods.
+
+## Business Insights:
+
+- Sales performance varies across different product lines and branches.
+- Different product lines contribute differently to overall sales.
+- The relationship between unit price and quantity can be analyzed using the Scatter Plot.
+- Payment method analysis helps understand sales distribution across different payment types.
+- Multiple visualizations provide a better understanding of overall business performance.
+
+## Conclusion:
+
+The Heat Map, Donut Chart, Scatter Plot, and Bar Chart provide a clear visual understanding of the Supermarket Sales Dataset. These visualizations help analyze product-line performance, branch-wise sales, payment methods, and relationships between numerical variables, supporting better business analysis and decision-making.
+
+## Dashboard Link:
+
+https://public.tableau.com/app/profile/asadul.wasim/viz/Task10_17900519994240/Task10
