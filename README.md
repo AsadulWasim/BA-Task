@@ -223,3 +223,44 @@ The Heat Map, Donut Chart, Scatter Plot, and Bar Chart provide a clear visual un
 ## Dashboard Link:
 
 https://public.tableau.com/app/profile/asadul.wasim/viz/Task10_17900519994240/Task10
+
+
+# Task 11 - Tableau Sales Data Visualization
+Dataset: Supermarket Sales Dataset (Kaggle)
+Tool: Tableau Public
+
+## Objective
+
+To create different visualizations using the Supermarket Sales Dataset and analyze sales performance, sales trends, product-line distribution, and payment methods.
+
+## Visualizations Created:
+
+1. Sales by Product Line - Bubble Chart
+2. Sales Trend - Line Chart
+3. Sales by Product Line - Pie Chart
+4. Sales by Payment Method - Bar Chart
+
+## Business Questions & Answers:
+
+1. Which product lines have higher sales? → The Bubble Chart shows sales performance across different product lines using bubble size.
+
+2. How do sales change over time? → The Line Chart shows the sales trend over different dates.
+
+3. How are sales distributed among product lines? → The Pie Chart shows the contribution of different product lines to overall sales.
+
+4. Which payment methods have higher sales? → The Bar Chart compares sales across different payment methods.
+
+## Business Insights:
+
+* Sales performance varies across different product lines.
+* The Line Chart helps identify changes in sales over time.
+* Different product lines contribute differently to overall sales.
+* Payment methods show different levels of sales contribution.
+* Multiple visualizations provide a better understanding of overall business performance.
+
+## Conclusion:
+
+The Bubble Chart, Line Chart, Pie Chart, and Bar Chart provide a clear visual understanding of the Supermarket Sales Dataset. These visualizations help analyze product-line performance, sales trends, product-line distribution, and payment methods, supporting better business analysis and decision-making.
+## Dashboard Link:
+
+https://public.tableau.com/app/profile/asadul.wasim/viz/Task11_17907432769890/Task11
