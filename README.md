@@ -264,3 +264,49 @@ The Bubble Chart, Line Chart, Pie Chart, and Bar Chart provide a clear visual un
 ## Dashboard Link:
 
 https://public.tableau.com/app/profile/asadul.wasim/viz/Task11_17907432769890/Task11
+
+
+# Task 12 - Tableau Data Visualization
+
+Dataset: Amsterdam Airbnb Dataset  
+Tool: Tableau Public
+
+## Objective
+
+To create different visualizations using the Amsterdam Airbnb Dataset and analyze room types, host status, guest satisfaction, accommodation capacity, and overall property performance.
+
+## Visualizations Created:
+
+1. Room Type and Host Status - Heat Map
+2. Guest Satisfaction by Room Type - Horizontal Bar Chart
+3. Room Type Performance - Treemap
+4. Person Capacity vs Overall Performance - Scatter Plot
+
+## Business Questions & Answers:
+
+1. How does guest satisfaction vary across room types and host status?
+→ The Heat Map shows the variation in guest satisfaction based on different room types and host status.
+
+2. Which room types have higher guest satisfaction?
+→ The Horizontal Bar Chart compares guest satisfaction across different room types.
+
+3. Which room types contribute more to overall property performance?
+→ The Treemap represents different room types using size and color to compare their overall performance.
+
+4. Is there a relationship between person capacity and overall property performance?
+→ The Scatter Plot shows the relationship between person capacity and the overall performance of the properties.
+
+## Business Insights:
+
+- Guest satisfaction varies across different room types and host categories.
+- Some room types show better guest satisfaction than others.
+- The Treemap helps identify the room types with greater overall contribution.
+- Properties with different person capacities show different performance levels.
+- The combination of these visualizations provides a better understanding of accommodation performance.
+
+## Conclusion:
+
+The Heat Map, Horizontal Bar Chart, Treemap, and Scatter Plot provide a clear visual understanding of the Amsterdam Airbnb Dataset. These visualizations help analyze room types, guest satisfaction, host status, property performance, and accommodation capacity, supporting better business analysis and decision-making.
+
+## Dashboard Link:
+https://public.tableau.com/app/profile/asadul.wasim/viz/Task12_17912761989340/Task12
