@@ -310,3 +310,67 @@ The Heat Map, Horizontal Bar Chart, Treemap, and Scatter Plot provide a clear vi
 
 ## Dashboard Link:
 https://public.tableau.com/app/profile/asadul.wasim/viz/Task12_17912761989340/Task12
+
+# Task 13 – Tableau Data Visualization
+
+**Dataset:** Supermarket Sales Dataset
+**Tool:** Tableau Public
+
+## Objective
+
+To create different visualizations using the Supermarket Sales Dataset and analyze sales trends, product line performance, customer types, and city-wise sales.
+
+## Visualizations Created
+
+1. Sales Trend Analysis – Line Chart
+2. Product Line Sales – Bar Chart
+3. Customer Type Sales – Bar Chart
+4. City-wise Sales – Map Chart
+
+## Business Questions & Answers
+
+**1. How do sales change over time?**
+
+The Line Chart shows sales trends over time and helps identify changes in supermarket sales performance.
+
+**2. Which product line generates higher sales?**
+
+The Bar Chart compares sales across different product lines and helps identify the best-performing product categories.
+
+**3. Which customer type contributes more to sales?**
+
+The Bar Chart compares sales across different customer types and helps identify which customer group contributes more to overall sales.
+
+**4. Which city generates higher sales?**
+
+The Map Chart displays city-wise sales performance and helps compare sales across different cities.
+
+## Business Insights
+
+* The Line Chart helps analyze changes in sales over time.
+* The Product Line Bar Chart helps compare sales across product categories.
+* The Customer Type Bar Chart helps understand sales contributions from different customer groups.
+* The City-wise Map helps visualize differences in sales performance across cities.
+* Together, these visualizations provide a better understanding of supermarket sales performance.
+
+## Conclusion
+
+The Line Chart, Bar Charts, and Map Chart provide a visual understanding of the Supermarket Sales Dataset. These visualizations help analyze sales trends, product line performance, customer types, and city-wise sales, supporting better business analysis and decision-making.
+
+## Suggestions
+
+* Introduce promotional offers for product lines with lower sales.
+* Develop marketing strategies to attract different customer groups.
+* Monitor sales performance across cities to identify improvement opportunities.
+* Review sales trends regularly to understand changes in demand.
+
+## Recommendations
+
+* Focus on product lines that generate higher sales.
+* Use customer purchasing patterns to improve marketing strategies.
+* Compare city-wise sales to identify areas with growth potential.
+* Use interactive dashboard filters to explore sales by product line and customer type.
+
+## Dashboard Link
+
+https://public.tableau.com/app/profile/asadul.wasim/viz/Task13_17932528920730/Task13
