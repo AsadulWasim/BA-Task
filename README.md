@@ -1,4 +1,4 @@
-# BA Task 3 - Tableau Dashboard
+ Task 3 - Tableau Dashboard
 
 ## Dashboard Title
 Zomato Restaurant Analysis Dashboard
@@ -13,7 +13,7 @@ https://public.tableau.com/app/profile/asadul.wasim/viz/RestaurantDashboardBATAS
 4. Most restaurants provide online ordering.
 5. Only a small number of restaurants offer table booking.
 6. 
-# 🛒 Week 4 - Customer Segment Analysis Dashboard
+Task 4 - Customer Segment Analysis Dashboard
 ## Dataset
 Supermarket Sales Dataset (Kaggle)
 
